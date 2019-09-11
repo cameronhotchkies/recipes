@@ -7,6 +7,7 @@ This is my collection of recipes. Enjoy.
 ## Entrees
 
 * [Coconut Curry Meatballs](coconut_curry_meatballs.md)
+* [Lime Shrimp Dragon Zoodles](lime_shrimp_dragon_zoodles.md)
 
 ---
 
