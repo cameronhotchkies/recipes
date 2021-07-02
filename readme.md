@@ -17,3 +17,4 @@ This is my collection of recipes. Enjoy.
 * [Pie Crust](pie_crust.md)
 
 * [Strawberry Rhubarb Habanero Pie](straw_rhub_hab_pie.md)
+* [WIP Sour Cherry Pie](cherry_pie.md)
