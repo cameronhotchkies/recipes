@@ -59,7 +59,7 @@ category: entree
 - [ ] Add chili puree, 2m
 - [ ] add 1 cup broth to blender to scrape up puree, then pour into pan
 - [ ] Add bay leaves, canned tomatoes, beans, last cup of broth to crock pot
-- [ ] Add puree mix and meat substitute to large crock pot
+- [ ] Add puree mix, vinegar, and meat substitute to large crock pot
 - [ ] Add 1 cup of stout beer
 - [ ] Slow cook on high 6+ hrs (Switch to low if the consistency is where you want it)
 
