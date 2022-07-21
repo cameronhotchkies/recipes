@@ -8,7 +8,7 @@ This is my collection of recipes. Enjoy.
 
 * [Coconut Curry Meatballs](coconut_curry_meatballs.md)
 * [Lime Shrimp Dragon Zoodles](lime_shrimp_dragon_zoodles.md)
-* [Pescatarian Chili](chili.md)
+* [Chicken Chili](chili.md)
 
 ---
 
