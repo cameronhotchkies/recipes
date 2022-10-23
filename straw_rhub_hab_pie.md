@@ -24,11 +24,12 @@ category: dessert
 
 ## Directions
 
+- [ ] Place the bottom pastry crust in a 9" pie tin and chill with pie weights for 30 minutes
+- [ ] Parbake the bottom crust at 350°F for 20 minutes (note, leave oven on at 350 after cooking)
 - [ ] Toss the rhubarb and strawberries in a bowl and add the boiling water; set aside.
 - [ ] In a bowl, combine sugar, flour, habanero, and tapioca; mix like it's going out of style.
 - [ ] Add drained rhubarb and strawberries; toss to coat. Let stand for 15 minutes.
 - [ ] Beat egg and water; add to rhubarb mixture and mix it up.
-- [ ] Line a 9-in. pie plate with bottom pastry
 - [ ] Add filling.
 - [ ] Dot with butter.
 - [ ] Cover with remaining pastry; flute edges.
